@@ -15,6 +15,7 @@ node src/index
 - Create a fork of this repository.
 - Clone the repository.
 - Start with the contribution :D.
+- Tries not to use external packages.
 - You are free to modify this project, help to improve it!
 
 If you have an issue, report to <a href="https://github.com/Wisdum-dev/randonano/issues">issues</a>
