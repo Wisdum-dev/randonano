@@ -12,9 +12,9 @@ const randonano = () => {
     });
     const randomizeDigits = randomize('0', 1);
 
-    console.log(convertToString.replaceAll(`${randomizeDigits}`, `${randomizeCharacters}`));
+    return convertToString.replaceAll(`${randomizeDigits}`, `${randomizeCharacters}`);
 };
 
-randonano();
+console.log(randonano());
 
-//Idea by latsdev
+// Idea by latsdev
