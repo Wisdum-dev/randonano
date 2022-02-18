@@ -16,3 +16,5 @@ const randonano = () => {
 };
 
 randonano();
+
+//Idea by latsdev
