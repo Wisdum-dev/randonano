@@ -21,4 +21,4 @@ node src/index
 
 If you have an issue, report to <a href="https://github.com/Wisdum-dev/randonano/issues">issues</a>
 
-<h6>base idea by @latitudeh</h6>
+<!-- <h6>base idea by @latitudeh</h6> -->
