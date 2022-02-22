@@ -16,6 +16,9 @@ node src/index
 - Clone the repository.
 - Start with the contribution :D.
 - Tries not to use external packages.
+- Once the contribution has been made, make a pull request 
 - You are free to modify this project, help to improve it!
 
 If you have an issue, report to <a href="https://github.com/Wisdum-dev/randonano/issues">issues</a>
+
+<h6>base idea by @latitudeh</h6>
